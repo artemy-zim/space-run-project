@@ -1,4 +1,4 @@
-# Space Run
+# Description
 
 Space Run is an exciting 3D endless runner game set in space. Players take on the role of an astronaut running across cosmic platforms, dodging obstacles, and collecting crystals to earn points.
 
