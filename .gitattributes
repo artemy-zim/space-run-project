@@ -1,0 +1,2 @@
+Assets/Models/Character/Astra.fbx filter=lfs diff=lfs merge=lfs -text
+Assets/Textures/Skybox/Nebula_04_Cubemap.exr filter=lfs diff=lfs merge=lfs -text
